@@ -2,7 +2,7 @@ Awesome Clean Code Resources  [![Awesome](https://cdn.rawgit.com/sindresorhus/aw
 ======================================================================
 
 >   An awesome curated list of clean code posts, books and resources - learn,
->   practice, contribute & most importantly become a cleaner!.
+>   practice, contribute & most importantly become cleaner!.
 
 If you want your code to be elegant, clean, straightforward and easy to
 understand, you will find this list helpful. They are links to posts, videos and
