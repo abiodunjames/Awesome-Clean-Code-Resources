@@ -14,19 +14,19 @@ up your day.
 Table of Contents
 -----------------
 
--   [PHP](#PHP)
+-   [PHP](#php)
 
--   [Java](#Java)
+-   [Java](#java)
 
--   [C\#](#C#)
+-   [C\#](#c#)
 
--   [JavaScript](#JavaScript)
+-   [JavaScript](#javascript)
 
--   [Rails](#Rails)
+-   [Rails](#rails)
 
--   [Python](#Python)
+-   [Python](#python)
 
--   [Books](#Books)
+-   [Books](#books)
 
 ## PHP
 ---
