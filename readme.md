@@ -41,6 +41,7 @@ Table of Contents
 | [A month of clean code](https://dev.to/gonedark/a-month-of-clean-code-tips-709)                                                                                                                      | <https://dev.to/gonedark/a-month-of-clean-code-tips-709>                                                                     |
 | [Clean, high quality code: a guide on how to become a better programmer](https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer) | <https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer> |
 | [10 Clean Code Techniques That Every Coder Should Know](http://www.codingdojo.com/blog/clean-code-techniques/)                                                                                       | http://www.codingdojo.com/blog/clean-code-techniques/                                                                        |
+| [Leave the code cleaner than the way you have found it!](https://codeburst.io/leave-the-code-cleaner-than-the-way-you-have-found-it-58c8e4ab3e83) | https://codeburst.io/leave-the-code-cleaner-than-the-way-you-have-found-it-58c8e4ab3e83 |
 
 ## Java
 ----
