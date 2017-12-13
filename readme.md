@@ -22,7 +22,7 @@ Table of Contents
 
 -   [JavaScript](#javascript)
 
--   [Rails](#rails)
+-   [Ruby](#ruby)
 
 -   [Python](#python)
 
@@ -93,7 +93,7 @@ Table of Contents
 | [How functional programming helps me write clean code](https://praveer09.github.io/technology/2016/08/05/how-functional-programming-helps-me-write-clean-code/) | https://praveer09.github.io/technology/2016/08/05/how-functional-programming-helps-me-write-clean-code/ |
 | [Clean Code](http://www.letscodejavascript.com/v3/episodes/live/182)                                                                                            | http://www.letscodejavascript.com/v3/episodes/live/182                                                  |
 
-## Rails
+## Ruby
 -----
 
 | Title                                                                                                                                                              | Link                                                                                                |
