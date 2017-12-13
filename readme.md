@@ -104,7 +104,14 @@ Table of Contents
 | [Ruby/Rails Code Smell Basics 01](https://code.tutsplus.com/articles/rubyrails-code-smell-basics-01--cms-25261)                                                    | https://code.tutsplus.com/articles/rubyrails-code-smell-basics-01--cms-25261                        |
 | [Clean Code and The Art of Exception Handling](https://www.toptal.com/abap/clean-code-and-the-art-of-exception-handlin)                                            | https://www.toptal.com/abap/clean-code-and-the-art-of-exception-handling                            |
 | [5 Tips to Instantly Write Better Code in Ruby for Beginners](https://medium.com/learning-how-to-code/5-tips-to-write-better-ruby-code-for-beginners-7549bd0793b8) | https://medium.com/learning-how-to-code/5-tips-to-write-better-ruby-code-for-beginners-7549bd0793b8 |
-
+| [5 Awesome Tools to Keep Your Rails Code Clean & Organized](https://codebrahma.com/5-awesome-tools-keep-rails-code-clean-organized/) | https://codebrahma.com/5-awesome-tools-keep-rails-code-clean-organized/ |
+| [Clean Architecture in Ruby](https://medium.com/@fbzga/clean-architecture-in-ruby-7eb3cd0fc145) | https://medium.com/@fbzga/clean-architecture-in-ruby-7eb3cd0fc145 | 
+| [Keeping Your Rails App Clean](https://www.sitepoint.com/keeping-your-rails-app-clean/) | https://www.sitepoint.com/keeping-your-rails-app-clean/ | https://www.sitepoint.com/keeping-your-rails-app-clean/ |
+| [Applying Clean Architecture to Ruby on Rails: First Impressions](https://theplainprogrammer.com/applying-clean-architecture-to-ruby-on-rails-first-impressions-3746ed0c9668) | https://theplainprogrammer.com/applying-clean-architecture-to-ruby-on-rails-first-impressions-3746ed0c9668 |
+| [Using Services to Keep Your Rails Controllers Clean and DRY](https://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services) | https://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services |
+| [Rails Clean Architecture](https://github.com/reedlaw/rails-clean-architecture) | https://github.com/reedlaw/rails-clean-architecture |
+| [7 Patterns to Refactor Fat ActiveRecord Models](https://codeclimate.com/blog/7-ways-to-decompose-fat-activerecord-models/) | https://codeclimate.com/blog/7-ways-to-decompose-fat-activerecord-models/ |
+ 
 ## Python
 ------
 
@@ -112,6 +119,18 @@ Table of Contents
 |-------------------------------------------------------------------------------------|----------------------------------------------------------|
 | [Writing Great Code](http://pythonforengineers.com/writing-great-code/)             | http://pythonforengineers.com/writing-great-code/        |
 | [How not to write Python](http://eikke.com/how-not-to-write-python-code/index.html) | http://eikke.com/how-not-to-write-python-code/index.html |
+| [Clean Code in Python as Presented in EuroPython 2016](https://github.com/rmariano/Clean-code-in-Python)| https://github.com/rmariano/Clean-code-in-Python|
+| [Writing clean, testable, high quality code in Python](https://www.ibm.com/developerworks/aix/library/au-cleancode/index.html)|https://www.ibm.com/developerworks/aix/library/au-cleancode/index.html|
+| [Code Style](http://docs.python-guide.org/en/latest/writing/style/) |http://docs.python-guide.org/en/latest/writing/style/|
+| [Writing Clean Code](http://www.chadvernon.com/blog/resources/python-scripting-for-maya-artists/writing-clean-code/) | http://www.chadvernon.com/blog/resources/python-scripting-for-maya-artists/writing-clean-code/|
+| [Write Clean, Professional, Maintainable, Quality Code in Python](https://blog.jetbrains.com/pycharm/2014/06/write-clean-professional-maintainable-quality-code-in-python/)| https://blog.jetbrains.com/pycharm/2014/06/write-clean-professional-maintainable-quality-code-in-python/|
+| [A Quick Primer on Writing Readable Python Code for New Developers](https://blog.hartleybrody.com/python-style-guide/)|https://blog.hartleybrody.com/python-style-guide/|
+| [7 Golden Rules of Clean, Simple and Maintainable Code](http://shhetri.github.io/clean-code/)| http://shhetri.github.io/clean-code/|
+| [Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) | http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/|
+| [Hey, your Python code is unreadable!](http://www.pgbovine.net/python-unreadable.htm) | http://www.pgbovine.net/python-unreadable.htm|
+| [Making Clean Code a Part of Your Build Process (And More!)](https://www.caktusgroup.com/blog/2015/08/15/making-clean-code-part-your-build-process/) | https://www.caktusgroup.com/blog/2015/08/15/making-clean-code-part-your-build-process/|
+| [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code) | https://www.coursera.org/learn/program-code|
+
 
 ## Books
 -----
