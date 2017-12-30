@@ -16,6 +16,8 @@ Table of Contents
 
 -   [PHP](#php)
 
+-   [NodeJs](#nodejs)
+
 -   [Java](#java)
 
 -   [C\#](#c#)
@@ -42,6 +44,26 @@ Table of Contents
 | [Clean, high quality code: a guide on how to become a better programmer](https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer) | <https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer> |
 | [10 Clean Code Techniques That Every Coder Should Know](http://www.codingdojo.com/blog/clean-code-techniques/)                                                                                       | http://www.codingdojo.com/blog/clean-code-techniques/                                                                        |
 | [Leave the code cleaner than the way you have found it!](https://codeburst.io/leave-the-code-cleaner-than-the-way-you-have-found-it-58c8e4ab3e83) | https://codeburst.io/leave-the-code-cleaner-than-the-way-you-have-found-it-58c8e4ab3e83 |
+| [PHP Standards Recommendations](http://www.php-fig.org/psr/)| http://www.php-fig.org/psr/|
+| [Extended Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md) | https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md|
+
+## NodeJs
+----
+
+
+| Title                                                                                                                                                                                                | Link                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [Felix Node's Style Guide](http://nodeguide.com/style.html)|                                                                                                                     | http://nodeguide.com/style.html |
+| [NodeJs Best Practices](https://blog.risingstack.com/node-js-best-practices/) | https://blog.risingstack.com/node-js-best-practices/|
+| [npm coding](https://docs.npmjs.com/misc/coding-style)| https://docs.npmjs.com/misc/coding-style |
+| [ 10 Node.js best practices you should follow](https://www.innofied.com/node-js-best-practices/) | https://www.innofied.com/node-js-best-practices/|
+| [Node.js: Style and structure](https://caolan.org/posts/nodejs_style_and_structure.html) | https://caolan.org/posts/nodejs_style_and_structure.html |
+| [Node.js Best Practices](http://justbuildsomething.com/node-js-best-practices/) | http://justbuildsomething.com/node-js-best-practices/|
+| [ Writing Clean Asynchronous Code In Node.js ](https://www.udemy.com/writing-clean-asynchronous-code-in-nodejs/) | https://www.udemy.com/writing-clean-asynchronous-code-in-nodejs/|
+| [Seven Things You Should Stop Doing with Node.js](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) | https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/ |
+| [Clean Architecture design in NodeJS](https://solidgeargroup.com/clean-architecture-in-nodejs)| https://solidgeargroup.com/clean-architecture-in-nodejs |
+| [Clean Code NodeJs : Execute Asynchronous Tasks in Series](https://blog.cloudboost.io/execute-asynchronous-tasks-in-series-942b74697f9c)| https://blog.cloudboost.io/execute-asynchronous-tasks-in-series-942b74697f9c| 
+
 
 ## Java
 ----
