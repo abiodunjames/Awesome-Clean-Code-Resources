@@ -153,7 +153,7 @@ Table of Contents
 | [Hey, your Python code is unreadable!](http://www.pgbovine.net/python-unreadable.htm) | http://www.pgbovine.net/python-unreadable.htm|
 | [Making Clean Code a Part of Your Build Process (And More!)](https://www.caktusgroup.com/blog/2015/08/15/making-clean-code-part-your-build-process/) | https://www.caktusgroup.com/blog/2015/08/15/making-clean-code-part-your-build-process/|
 | [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code) | https://www.coursera.org/learn/program-code|
-
+| [Clean Code in Python](https://testdriven.io/blog/clean-code-python/) | https://testdriven.io/blog/clean-code-python/|
 
 ## Books
 -----
